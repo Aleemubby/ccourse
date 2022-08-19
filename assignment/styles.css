@@ -56,7 +56,7 @@ left: 0;}
 
 
 
-@media(min-width: 768px){#nav-button{display: none;}}
+@media(min-width: 768px){#nav-button, #navbarSupportedContent{display: none;}}
 
 
 
